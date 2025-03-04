@@ -1,0 +1,31 @@
+body{
+    font-family: sans-serif;
+    background-color: rgb(186, 255, 206);
+}
+h1{
+    color: rgb(47, 255, 137);
+}
+p{
+    margin-bottom: 5%;
+    background-color: rgba(162, 255, 0, 0.434);
+    border: 10px solid rgba(0, 255, 8, 0.541);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    color: rgb(22, 174, 255);
+}
+a{
+    color: rgb(0, 162, 255);
+}
+img{
+    width: 100%;
+    max-width: 600px;
+}
+
+ol{
+    color: blue;
+}
+
+ul{
+    color: rgb(0, 0, 163);
+}
